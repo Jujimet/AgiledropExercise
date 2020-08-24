@@ -1,0 +1,4 @@
+services:
+    exercise_module.date:
+        class: Drupal\exercise_module\eventDateService
+        
